@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "rzpwku77i",
+      "name": "áo phông đen",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Faophong2.jpg?alt=media&token=e7b6a72f-1b5d-4953-8d98-f848a23cf637",
+      "price": "2000",
+      "mota": "áo phông đen mới nhất",
+      "desc": "",
+      "pricesale": "1000"
+    },
+    {
+      "id": "xm5mg9azw",
+      "name": "Áo jean đen",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Faojean1.jpg?alt=media&token=e786484f-7197-40cd-95e0-b5066028dd76",
+      "price": "5000",
+      "pricesale": "3500",
+      "mota": "áo khoác jean nam mẫu áo hot mới năm 2020",
+      "desc": ""
+    },
+    {
+      "id": "ei7ryfw1s",
+      "name": "Áo Hoodie",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fhoodie1.jpg?alt=media&token=2b0f4aa4-dde4-4a6f-806d-4af1d9daf037",
+      "price": "3000",
+      "pricesale": "2500",
+      "mota": "áo Hoodie sành điệu mẫu mới nhất",
+      "desc": ""
+    },
+    {
+      "id": "owd5uw5nw",
+      "name": "Áo sơ mi trắng ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Fsomi1.jpg?alt=media&token=d1415c80-11fe-4619-82b2-38a29ef0200c",
+      "price": "2500",
+      "pricesale": "2000",
+      "mota": "áo sơ mi trắng mẫu mới nhập khẩu",
+      "desc": ""
+    },
+    {
+      "id": "ys5s3k3rd",
+      "name": "Áo thun dài tay kẻ ngang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Faothundai.jpg?alt=media&token=7b1c9ad7-959c-4e6c-906e-fd2312eeb62d",
+      "price": "1500",
+      "pricesale": "1000",
+      "mota": "áo thun kẻ dài tay đẹp ",
+      "desc": ""
+    },
+    {
+      "id": "xlunr7mp0",
+      "name": "áo phông trắng aaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-6e87e.appspot.com/o/images%2Faophong1.png?alt=media&token=41522fe4-b54f-4ec4-8ae7-0e77c5f6c707",
+      "price": "22222",
+      "pricesale": "44444",
+      "mota": "áo phông trắng mới nhập giá rẻ22222",
+      "desc": ""
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Intelligent"
+    },
+    {
+      "id": "2",
+      "name": "Awesome"
+    },
+    {
+      "id": "3",
+      "name": "Rustic"
+    },
+    {
+      "id": "4",
+      "name": "Fantastic"
+    },
+    {
+      "id": "5",
+      "name": "Unbranded"
+    }
+  ],
+  "posts": [],
+  "users": []
+}
